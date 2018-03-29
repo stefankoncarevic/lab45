@@ -1,0 +1,15 @@
+D:\rA18-2015\lab45-1\implementation\system.ngc 1522308676
+D:/rA18-2015/lab45-1/implementation/system_dip_switches_wrapper.ngc 1522308648
+D:/rA18-2015/lab45-1/implementation/system_rs232_wrapper.ngc 1522308633
+D:/rA18-2015/lab45-1/implementation/system_proc_sys_reset_0_wrapper.ngc 1522308556
+D:/rA18-2015/lab45-1/implementation/system_clock_generator_0_wrapper.ngc 1522308663
+D:/rA18-2015/lab45-1/implementation/system_microblaze_0_ilmb_wrapper.ngc 1522308653
+D:/rA18-2015/lab45-1/implementation/system_microblaze_0_dlmb_wrapper.ngc 1522308658
+D:/rA18-2015/lab45-1/implementation/system_axi4lite_0_wrapper.ngc 1522308666
+D:/rA18-2015/lab45-1/implementation/system_microblaze_0_wrapper.ngc 1522308660
+D:/rA18-2015/lab45-1/implementation/system_microblaze_0_i_bram_ctrl_wrapper.ngc 1522308567
+D:/rA18-2015/lab45-1/implementation/system_microblaze_0_d_bram_ctrl_wrapper.ngc 1522308575
+D:/rA18-2015/lab45-1/implementation/system_debug_module_wrapper.ngc 1522308614
+D:/rA18-2015/lab45-1/implementation/system_leds_wrapper.ngc 1522308640
+D:/rA18-2015/lab45-1/implementation/system_microblaze_0_bram_block_wrapper.ngc 1522308581
+OK
